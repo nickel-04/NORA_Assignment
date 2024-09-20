@@ -1,6 +1,8 @@
 # NORA_Assignment
 
-To train/test SOTA models and show results, run the following command:
+Developed a novel variational approach to enhance survival time predictions and manage complex, censored medical data.
+
+Refined ELBO for survival analysis.
 
 python survival_analysis/main_sota.py
 
