@@ -1,4 +1,7 @@
 # NORA_Assignment
+Leveraging VAE for survival analysis
+
+SAVAE: Survival Analysis Variational AutoEncoder
 
 Developed a novel variational approach to enhance survival time predictions and manage complex, censored medical data.
 
